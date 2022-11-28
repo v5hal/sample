@@ -1,0 +1,13 @@
+.container{
+    border: 2px solid black;
+    
+}
+.event{
+    border:2px solid black;
+    flex-direction:row;
+}
+.search{
+    text-align: center;
+    flex-direction:row;
+}
+
